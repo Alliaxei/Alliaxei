@@ -29,7 +29,9 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 - :telescope: I’m working as a Backend Developer building web applications.
 
 - :seedling: Exploring Technical Content.
-
+  
+- 🔍 Focused on Python, Django, and building robust APIs.
+  
 - :zap: In my free time, I solve problems on LeetCode and read tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alexey-pilipenko-51945433b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
